@@ -4,7 +4,7 @@ import (
 	flag "github.com/spf13/pflag"
 	"fmt"
 	"strings"
-	"html/template"
+	"text/template"
 	"io"
 	"os"
 	"encoding/json"
